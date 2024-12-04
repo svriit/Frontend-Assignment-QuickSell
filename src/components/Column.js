@@ -31,7 +31,7 @@ const Column = ({ group, tickets, addTask, updateTaskStatus, deleteTask }) => {
         <div className="column-header-content">
           {columnIcons[group]} 
           <h3>{group}</h3>
-          <span>{tickets.length} </span>
+          <span>{tickets.length}</span>
         </div>
         {group !== 'Cancelled' && (
           <button className="add-task-btn" onClick={addTask}>+</button>
