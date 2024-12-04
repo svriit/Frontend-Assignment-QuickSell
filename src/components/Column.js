@@ -12,14 +12,12 @@ import { ReactComponent as LowPriorityIcon } from '../assets/low-priority.svg';
 import { ReactComponent as NoPriorityIcon } from '../assets/no-priority.svg';
 
 const Column = ({ group, tickets, addTask, updateTaskStatus, deleteTask }) => {
-  // Combine status and priority icons in a single mapping
   const columnIcons = {
     'Backlog': <BacklogIcon className="column-icon" />,
     'To Do': <ToDoIcon className="column-icon" />,
     'In Progress': <InProgressIcon className="column-icon" />,
     'Done': <DoneIcon className="column-icon" />,
     'Cancelled': <CancelledIcon className="column-icon" />,
-    // Priority Icons added directly in the same mapping
     'Urgent': <UrgentPriorityIcon className="column-icon" />,
     'High': <HighPriorityIcon className="column-icon" />,
     'Medium': <MediumPriorityIcon className="column-icon" />,
@@ -31,9 +29,9 @@ const Column = ({ group, tickets, addTask, updateTaskStatus, deleteTask }) => {
     <div className="column">
       <div className="column-header">
         <div className="column-header-content">
-          {columnIcons[group]} {/* Render the appropriate icon based on group */}
+          {columnIcons[group]} 
           <h3>{group}</h3>
-          <span>{tickets.length} items</span> {/* Display the count of items */}
+          <span>{tickets.length} </span>
         </div>
         {group !== 'Cancelled' && (
           <button className="add-task-btn" onClick={addTask}>+</button>
