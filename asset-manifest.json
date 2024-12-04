@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Frontend-Assignment-QuickSell/static/css/main.43169a4e.css",
+    "main.js": "/Frontend-Assignment-QuickSell/static/js/main.14a83978.js",
+    "static/js/453.b59a6793.chunk.js": "/Frontend-Assignment-QuickSell/static/js/453.b59a6793.chunk.js",
+    "static/media/display.svg": "/Frontend-Assignment-QuickSell/static/media/display.0168095040354204011b596e30abf32e.svg",
+    "static/media/cancelled.svg": "/Frontend-Assignment-QuickSell/static/media/cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
+    "static/media/three-dots.svg": "/Frontend-Assignment-QuickSell/static/media/three-dots.4caedb468f68b915626e0e35045257b3.svg",
+    "static/media/no-priority.svg": "/Frontend-Assignment-QuickSell/static/media/no-priority.7218b139313728c6a4efa8da6e34852b.svg",
+    "index.html": "/Frontend-Assignment-QuickSell/index.html",
+    "static/media/done.svg": "/Frontend-Assignment-QuickSell/static/media/done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "static/media/low-priority.svg": "/Frontend-Assignment-QuickSell/static/media/low-priority.491e21f9000cb90112dea470dbb72650.svg",
+    "static/media/medium-priority.svg": "/Frontend-Assignment-QuickSell/static/media/medium-priority.83775665307e977d62e9b0fc7fb95cc4.svg",
+    "static/media/high-priority.svg": "/Frontend-Assignment-QuickSell/static/media/high-priority.5024fd0d163cb13c95f2d29079e2974d.svg",
+    "static/media/in-progress.svg": "/Frontend-Assignment-QuickSell/static/media/in-progress.d4beb72fbc94f765259fc46ecaba9779.svg",
+    "static/media/urgent-priority.svg": "/Frontend-Assignment-QuickSell/static/media/urgent-priority.9b67f75d5459d4d66573ef9f8e6f6841.svg",
+    "static/media/backlog.svg": "/Frontend-Assignment-QuickSell/static/media/backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
+    "static/media/todo.svg": "/Frontend-Assignment-QuickSell/static/media/todo.c01d92afcffeef58b2cd9ae080df1f58.svg",
+    "main.43169a4e.css.map": "/Frontend-Assignment-QuickSell/static/css/main.43169a4e.css.map",
+    "main.14a83978.js.map": "/Frontend-Assignment-QuickSell/static/js/main.14a83978.js.map",
+    "453.b59a6793.chunk.js.map": "/Frontend-Assignment-QuickSell/static/js/453.b59a6793.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43169a4e.css",
+    "static/js/main.14a83978.js"
+  ]
+}
